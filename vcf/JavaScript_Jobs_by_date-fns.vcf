@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Sasha Koss
+N;CHARSET=UTF-8:Sasha Koss;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;Dopravní 500/9;Prague;;10400;Czech Republic
+EMAIL:koss@nocorp.me
+ORG;CHARSET=UTF-8:Teleport Arcade s.r.o.
+URL:https://jobs.date-fns.org
+END:VCARD
